@@ -13,6 +13,6 @@ digital thesis by providing the sensory experience of touching  and smelling the
 ![](pouch_open_zoom.jpeg)
 ![](tree_rings.jpg)
 ![](stones.jpg)
-![](map.jpg)
+![](spiral.jpg)
 ![](branch.jpg)
 ![](quipu.jpg)
